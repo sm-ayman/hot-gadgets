@@ -37,3 +37,22 @@
     font-size: 15px;
     font-weight: 600;
 }
+.cat-bottom-line{
+    width: 100px;
+    height: 10px;
+    background-image: linear-gradient(to bottom, #FF9C35 0%, #FFD019 100%);
+    border-radius: 10px;
+    
+}
+.cat-text{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    text-decoration: solid;
+}
+.img-div{
+    max-height: 300px;
+    max-width: 200px;
+}
