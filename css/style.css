@@ -19,6 +19,15 @@
   letter-spacing: 0.5px;
 }
 #mynav a:hover {
-    background-image: linear-gradient(to bottom, #FF9C35 0%, #FFD019 100%);
+    color: #FFD019;
     border-radius: 50px;
-  } 
+}
+.card{
+    border: none;
+    box-shadow: 3px 3px 20px lightgray;
+    border-radius: 10px;
+} 
+.card-footer{
+    border: none;
+    background-color: white;
+}
