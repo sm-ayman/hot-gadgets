@@ -14,3 +14,11 @@
     height: 10px;
     background-image: linear-gradient(to bottom, #FF9C35 0%, #FFD019 100%);
 }
+#mynav{
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+#mynav a:hover {
+    background-image: linear-gradient(to bottom, #FF9C35 0%, #FFD019 100%);
+    border-radius: 50px;
+  } 
