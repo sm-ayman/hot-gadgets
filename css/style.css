@@ -1,0 +1,16 @@
+.htg-btn-buy-now{
+    background-image: linear-gradient(to bottom, #3c3a3b 0%, #000000 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.htg-bg-color{
+    background-color: white
+}
+#mycarousel-indicators button{
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-image: linear-gradient(to bottom, #FF9C35 0%, #FFD019 100%);
+}
