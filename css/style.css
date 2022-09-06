@@ -31,3 +31,9 @@
     border: none;
     background-color: white;
 }
+.see-all-option{
+    text-decoration: none;
+    color: #FF9D00;
+    font-size: 15px;
+    font-weight: 600;
+}
